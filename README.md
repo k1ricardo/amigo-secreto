@@ -15,6 +15,6 @@ Este é um projeto simples que permite a realização de um sorteio de **Amigo S
 - **CSS** → Estilização da interface.  
 - **JavaScript** → Funcionalidade e lógica do sorteio.  
 
-## 🎮 Como Executar o Projeto?
+
 
 
