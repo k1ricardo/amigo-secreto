@@ -17,6 +17,4 @@ Este é um projeto simples que permite a realização de um sorteio de **Amigo S
 
 ## 🎮 Como Executar o Projeto?
 
-1. **Clone este repositório**:
-   ```sh
-   git clone https://github.com/k1ricardo/amigo-secreto.git
+
